@@ -1,5 +1,4 @@
-
-import './App.css';
+import "./App.css";
 import Weather from "./Weather";
 
 function App() {
@@ -8,12 +7,8 @@ function App() {
       <header className="App-header">
         <h1> Jamani Hamjambo?</h1>
         <p>
-          <Weather city="Moshi"/>
-          
+          <Weather city="Moshi" />
         </p>
-     Changing
-    
-  
       </header>
     </div>
   );

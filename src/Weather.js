@@ -171,7 +171,7 @@ export default function Weather(props) {
           </div>
           <div className="link-to-code">
             <a
-              href="https://github.com/avr87/Anna-weather-app.git"
+              href="https://github.com/avr87/test-react.git"
               rel="noreferrer"
               target="_blank"
             >
